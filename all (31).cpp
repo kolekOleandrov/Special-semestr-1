@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main() {
+int main() 
+{
     int n;
     cout << "Введите двухзначное число: ";
     cin >> n;
