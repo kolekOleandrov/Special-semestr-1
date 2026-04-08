@@ -1,8 +1,9 @@
-#include <iostream>
+#include <iostream> // 1 задача максимальное значение для двух различных чисел
 
 using namespace std;
 
-int main() {
+int main() 
+{
     double a, b;
     cout << "Введите два вещественных числа: ";
     cin >> a >> b;
