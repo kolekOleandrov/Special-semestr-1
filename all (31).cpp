@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> // кратна ли трем сумма цифр двухзначного числа // 
 
 using namespace std;
 
