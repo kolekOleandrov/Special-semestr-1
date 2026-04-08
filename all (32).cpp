@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> // какая из цифр трехзначного числа больше первая или вторая//
 
 using namespace std;
 
